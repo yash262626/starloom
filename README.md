@@ -1,5 +1,7 @@
 # ✦ STARLOOM — Weave Light. Bind the Void.
 
+[![Play Live](https://img.shields.io/badge/🎮_Play_Live-Open_STARLOOM-00C7B7?style=for-the-badge)](https://yash262626.github.io/starloom/)
+
 An arcade **loop-drawing game** for the browser. Steer a spark, leave a ribbon of light behind you, and cross it to close a loop. Every shadow inside the loop is *bound* and turns into score. Survive escalating phases, chase combos and unlock new ribbons.
 
 Everything lives in a single `index.html`: no dependencies, no build step, no server, no external assets.
