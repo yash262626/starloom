@@ -6,7 +6,7 @@ An arcade **loop-drawing game** for the browser. Steer a spark, leave a ribbon o
 
 Everything lives in a single `index.html`: no dependencies, no build step, no server, no external assets.
 
-**Play:** open `index.html` in any modern browser (desktop or mobile), or host it as-is on Netlify / GitHub Pages / Vercel.
+**Play:** open `index.html` in any modern browser (desktop or mobile), (the live version above is hosted by the author; re-hosting is not permitted, see License).
 
 ---
 
@@ -72,10 +72,9 @@ Sound effects (procedural synth), music (generative ambient score), volume, scre
 - Responsive and touch-friendly; design tokens live in CSS custom properties.
 - Single file, so it is easy to fork, host or embed.
 
-## Deploy
+## License
 
-- **Netlify:** drag the folder onto app.netlify.com/drop.
-- **GitHub Pages:** Settings → Pages → Deploy from branch → `main` / root.
+This project is source-available under the [Yash AIL Source-Available License](LICENSE): you may view, copy and modify it for personal, educational and non-commercial local use. **Deploying/hosting it online and selling it are not allowed.**
 
 ---
 
